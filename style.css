@@ -1,0 +1,83 @@
+body{
+    margin: 0px;
+    font-family: 'Noto Serif', serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.highlight{
+    color: crimson;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 400px;
+    padding-bottom: 300px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    padding: 10px 20px;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+}
+.biography-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.demo-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.demo-work h3{
+    padding: 60px;
+}
+.demo-work img{
+    width: 25%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 3%;
+}
+.footer-part{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.footer-part h3{
+    padding-bottom: 50px;
+}
+.footer-part h5 span{
+    font-weight: normal;
+    color: lightslategrey;
+}
+.contact-area{
+    width: 650px;
+    color: white;
+    background-color: darksalmon;
+    margin-left: 28%;
+    margin-top: 100px;
+    padding: 15px;
+    border-radius: 10px;
+    
+}
+footer p{
+    text-align: center;
+    margin-top: 200px;
+}
