@@ -11,6 +11,10 @@ h2{
 .highlight{
     color: crimson;
 }
+.highlight:hover{
+    font-size: 52px;
+    text-shadow: 3px 3px 5px burlywood;
+}
 .half-width{
     width: 40%;
     float: left;
@@ -101,6 +105,7 @@ section{
   }
 .fa:hover {
     opacity: 0.7;
+    background-color: black;
 }
 .fa-facebook {
     background: #3B5998;
